@@ -1,0 +1,28 @@
+
+    h1{
+        color:red;
+    }
+    .odd{
+        color: blue;
+    }
+    .even{
+        color:violet;
+    }
+    #unq{
+        color: aqua;
+    }
+    .deenu{
+        height: 500px;
+        width: 500px;
+        background-color: black;
+    }
+    .out{
+        height: 200px;
+        width: 200px;
+        background-color: pink;
+    }
+    .out{
+        height: 200px;
+        width: 200px;
+        background-color:yellow;
+    }
